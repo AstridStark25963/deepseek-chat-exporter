@@ -42,7 +42,6 @@ UI展示：
 
 点击下方链接进入 Greasy Fork 页面进行一键安装：
 👉 **[安装 DeepSeek Chat Exporter](https://greasyfork.org/scripts/566716-deepseek-chat-exporter)**
-*(请在发布脚本后替换此链接)*
 
 ## 📖 导出规范
 
